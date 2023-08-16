@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Filip Rehburg</h1>
 <h3 align="center">A young, innovative & research-oriented Data Scientist</h3>
 
-- 🔭 I’m currently working on my **Bachelor Thesis on ECG-Imaging using CNNs**
+- 🔭 I’m currently working at the Berlin Institute of Health
+  
+- 💾 My last project was my **Bachelor Thesis on ECG-Imaging using CNNs**
 
 - 📝 You can find my portfolio here [https://www.filiprehburg.com/](https://www.filiprehburg.com/)
 
